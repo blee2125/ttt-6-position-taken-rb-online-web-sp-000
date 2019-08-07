@@ -4,7 +4,7 @@ def position_taken?(board, index)
     return false
   elsif index == ""
     return false
-  
+
   end
 
 end
