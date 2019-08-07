@@ -1,8 +1,8 @@
 # code your #position_taken? method here!
 def position_taken?(board, index)
-  if index == " "
+  if index == '" "'
     return false
-  elsif index == ""
+  elsif index == '""'
     return false
 
   end
